@@ -1,1 +1,1 @@
-teste
+aprendi que o commit faz o versionamento de arquivos.
