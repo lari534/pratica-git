@@ -1,5 +1,5 @@
-mkdir
-cd
-init
-add
-commit.
+mkdir-cria uma pasta nova
+cd-navega pelo sistema
+git init-da inicio ao repositório
+git add-prepara o arquivo pro commit
+git commit-salva uma mudança
